@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border: 20px solid white;
+
+  }
+
+  td {
+      border: 5px solid white;
+       }
+
+  div {
+      width: 8px;
+      height: 8px;
+      padding: 10px;
+      margin: 5px ;
+      border: 20px solid green;
+  }
+
+  div {
+    background: orange;
+}
+
+ 
+td {
+    background: orange;
+}
+
+div:nth-child(2n-1) {
+    width: 8px;
+    height: 8px;
+    padding: 10px;
+    margin: 5px ;
+    background: black;
+}
+
+  
+
+
+
+  
